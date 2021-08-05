@@ -35,6 +35,7 @@ RUN rm -rf /etc/apt/sources.list && \
 	git \
 	curl \
 	vim \
+        obs-studio \
 	zip \
 	net-tools \
 	iputils-ping \
